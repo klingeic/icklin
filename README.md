@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ian! 
+<h1>Hello, I'm Ian! 
 <h2>👨‍💻 Professional/Educational Projects:</h2>
 
 - <b>Database Development</b>
