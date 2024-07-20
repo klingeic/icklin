@@ -11,6 +11,8 @@
   
 - <b>Python</b>
 
+- <b>Networking</b>
+
 - <b>GUI Applications</b>
   
 
