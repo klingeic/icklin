@@ -6,7 +6,7 @@
 - <b>Security Development/Tools</b>
    - [Password Manager](https://github.com/Icklin/PWmanager1)
 - <b>Capture The Flag</b>
- - [PicoCTF](https://play.picoctf.org/users/i-bram95)
+   - [PicoCTF](https://play.picoctf.org/users/i-bram95)
 - <b>C#</b>
   
 - <b>Python</b>
