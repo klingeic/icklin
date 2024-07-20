@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ian! 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Professional/Educational Projects:</h2>
 
 - <b>Database Development</b>
    - [sqlite3](https://github.com/Icklin/sqlite3)
