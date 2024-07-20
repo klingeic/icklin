@@ -4,7 +4,7 @@
 - <b>Database Development</b>
   
 - <b>Security Development/Tools</b>
-   - [(Password Manager)](https://github.com/Icklin/PWmanager1))
+   - [(Password Manager)](https://github.com/Icklin/PWmanager1)
 - <b>Capture The Flag</b>
  
 - <b>C#</b>
