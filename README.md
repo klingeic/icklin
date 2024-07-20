@@ -2,7 +2,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Database Development</b>
-  
+   - [sqlite3](https://github.com/Icklin/sqlite3)
 - <b>Security Development/Tools</b>
    - [Password Manager](https://github.com/Icklin/PWmanager1)
 - <b>Capture The Flag</b>
