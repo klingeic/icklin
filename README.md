@@ -1,22 +1,24 @@
 <h1>Hi, I'm Ian! 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Database Development</b>
   
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Security Development/Tools</b>
   
-- <b>PowerShell</b>
+- <b>Capture The Flag</b>
  
-- <b>C# (.NET Desktop Applications)</b>
+- <b>C#</b>
   
 - <b>Python</b>
+
+- <b>GUI Applications</b>
   
 
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="IanKlingenberg | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]](https://www.linkedin.com/in/ian-klingenberg-671078224/)
 
 [linkedin]: https://linkedin.com/in/joshmadakor
 
