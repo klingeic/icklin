@@ -10,14 +10,9 @@
 - <b>C#</b>
   
 - <b>Python</b>
-   - [PCOptimizer](https://github.com/Icklin/PCOptimizer))
+   - [PCOptimizer](https://github.com/Icklin/PCOptimizer)
 
 - <b>Networking</b>
-
-- <b>GUI Applications</b>
-  
-
-
 
 <h2> 🤳 Connect with me:</h2>
 
