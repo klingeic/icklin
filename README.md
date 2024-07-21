@@ -5,7 +5,7 @@
    - [sqlite3](https://github.com/Icklin/sqlite3)
 - <b>Security Development/Tools</b>
    - [Password Manager](https://github.com/Icklin/PWmanager1)
-   - - [HoneyPot]()
+   - [HoneyPot]()
 - <b>Capture The Flag</b>
    - [PicoCTF](https://play.picoctf.org/users/i-bram95)
 - <b>C#</b>
