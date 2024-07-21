@@ -21,9 +21,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="IanKlingenberg |  LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="IanKlingenberg |  BTLO" width="22px" src="https://blueteamlabs.online/images/logo.png" />][]
 
 [linkedin]: https://www.linkedin.com/in/ian-klingenberg-671078224/
-
+[blutteamlabs]: https://blueteamlabs.online/home/user/826534507e012adf29e848
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
